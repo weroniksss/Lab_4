@@ -1,0 +1,67 @@
+even_week=false
+curr_week_number=11
+
+[schedule]
+
+[[schedule.wednessday]]
+class_num=1
+subject="Fundamentals of professonal practice"
+type="lecture"
+classroom="2113"
+time="9:50 - 11:20"
+teacher="Klimenkov Sergey Victorovich"
+address="Kronverksy prospect, 49"
+
+[[schedule.wednessday]]
+class_num=2
+subject="Programming"
+type="laboratory"
+classroom="1327"
+time="11:30- 13:00"
+teacher="Haritonova Anastasiya Evgenyevna"
+address="Kronverksy prospect, 49"
+
+[[schedule.wednessday]]
+class_num=3
+subject="Programming"
+type="laboratory"
+classroom="1327"
+time="13:30 - 15:00"
+teacher="Haritonova Anastasiya Evgenyevna"
+address="Kronverksy prospect, 49"
+
+[[schedule.friday]]
+class_num=1
+subject="Mathematical analysis"
+type="lecture"
+classroom="2403"
+time="8:10 - 9:40"
+teacher="Starkov Alexander Sergeevich"
+address="Kronverksy prospect, 49"
+
+[[schedule.friday]]
+class_num=2
+subject="Mathematical analysis"
+type="practice"
+classroom="2305"
+time="9:50 - 11:20"
+teacher="Starkov Alexander Sergeevich"
+address="Kronverksy prospect, 49"
+
+[[schedule.friday]]
+class_num=3
+subject="Discrete Mathematics"
+type="lecture"
+classroom="1428"
+time="11:30 - 13:00"
+teacher="Karpov Dmitry Valeryevich"
+address="Kronverksy prospect, 49"
+
+[[schedule.friday]]
+class_num=4
+subject="Discrete Mathematics"
+type="practice"
+classroom="1506"
+time="13:30 - 15:00"
+teacher="Karpov Dmitry Valeryevich"
+address="Kronverksy prospect, 49"
